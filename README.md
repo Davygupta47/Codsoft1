@@ -26,6 +26,8 @@ TF-IDF Vectorizer: Converts plot summaries into TF-IDF vectors.
 Logistic Regression with One-vs-Rest Strategy: Classifies each movie plot into one or more genres.
 Evaluation Metrics: Reports classification metrics, including precision, recall, and F1-score.
 ![image](https://github.com/user-attachments/assets/64b7eeac-1720-4566-8686-50380ffd50d2)
+
+
 Results
 The model's performance is evaluated using classification metrics, and the confusion matrix visualizes the accuracy across various genres.
 
